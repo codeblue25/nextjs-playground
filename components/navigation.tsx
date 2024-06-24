@@ -5,9 +5,7 @@ import { usePathname } from "next/navigation";
 
 export default function Navigation() {
   const path = usePathname();
-  console.log(path);
 
-  const newLocal = "";
   return (
     <nav>
       <ul>
