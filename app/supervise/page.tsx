@@ -1,3 +1,7 @@
+export const metadata = {
+  title: "Supervise",
+};
+
 export default function Supervise() {
   return (
     <div>
